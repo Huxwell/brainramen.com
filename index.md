@@ -1,3 +1,14 @@
+# Welcome to brainramen
+
+Brainramen allows you to learn and practice calulus (for now function deriviatives) easily.
+It's cool, because:
+- you can learn while waiting for a bus or eating breakfast
+- It compeats for time that would be wasted anyway on useless games or social media interactions
+- It doesn't require you to set aside a lot of time
+- you don't need pen and paper
+- the questions are designed so that you can do all the computation in memory
+- comprenehsion doesn't make up for practice
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Huxwell/brainramen.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
