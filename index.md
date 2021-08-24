@@ -1,48 +1,14 @@
 # Welcome to brainramen
 
-Brainramen allows you to learn and practice calulus (for now function deriviatives) easily.
+Brainramen is a prototype of an app that allows you to learn and practice calculus easily.
 It's cool, because:
-- you can learn while waiting for a bus or eating breakfast
-- It compeats for time that would be wasted anyway on useless games or social media interactions
+- You can learn while waiting for a bus or eating breakfast
+- It competes for time that would be wasted anyway on useless games or social media interactions
 - It doesn't require you to set aside a lot of time
-- you don't need pen and paper
-- the questions are designed so that you can do all the computation in memory
-- comprenehsion doesn't make up for practice
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Huxwell/brainramen.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Huxwell/brainramen.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- You don't need pen and paper
+- The questions are designed so that you can do all the computation in memory
+- Comprehension is one thing, practice is another. This app is meant to help with both.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you want to contribute to the app or need to contact me for any other reason, you can reach me via [LinkedIn](https://www.linkedin.com/in/filip-drapejkowski-77715972/) .
