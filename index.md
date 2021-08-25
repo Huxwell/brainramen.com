@@ -9,6 +9,8 @@ It's cool, because:
 - The questions are designed so that you can do all the computation in memory
 - Comprehension is one thing, practice is another. This app is meant to help with both.
 
+![the_gif](/assets/gifs/demo_emotes.gif)
+
 ### Support or Contact
 
 If you want to contribute to the app or need to contact me for any other reason, you can reach me via [LinkedIn](https://www.linkedin.com/in/filip-drapejkowski-77715972/) .
