@@ -9,7 +9,7 @@ It's cool, because:
 - The questions are designed so that you can do all the computation in memory
 - Comprehension is one thing, practice is another. This app is meant to help with both.
 
-![the_gif](/assets/gifs/demo_emotes.gif){: .center-image }
+![the_gif](/assets/gifs/demo_emotes.gif){: .align-center}
 
 ### Support or Contact
 
