@@ -9,6 +9,8 @@ It's cool, because:
 - The questions are designed so that you can do all the computation in memory
 - Comprehension is one thing, practice is another. This app is meant to help with both.
 
+## This is how it looks like - more or less
+
 <div class="gif_container" style="text-align: center;">
 ![the_gif](/assets/gifs/demo_emotes.gif)
 </div>
