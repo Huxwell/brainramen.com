@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 url: "http://brainramen.com"
 title: "Brainramen Math"
 description: "One-hand (idle) become master-of-calulus (academic math) app."
+kramdown:
+  parse_block_html: true
